@@ -28,7 +28,7 @@ body{
 /* **************third section */
 .third-section{
     height: 670px;
-    background-color:rgba(236, 234, 234, 0.651);
+    background-color:rgba(241, 238, 238, 0.945);
 }
 .third-section h2{
     text-align:center;
@@ -41,10 +41,11 @@ body{
        padding: 2%;
        border-radius:10px;
        box-shadow: 8px 8px 30px lightgray;
+       background-color:white;
 }
 .project img{
     width: 100%;
-    height: auto;    
+    height: auto;        
 }
 /* *************forth section */
 .forth-section{    

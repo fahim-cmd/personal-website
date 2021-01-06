@@ -21,11 +21,11 @@ body{
     width: 140px;
     color: white;
     font-weight:900;
-    background-image: linear-gradient(45deg, #FF8367 ,#FFF963);
-    border-radius:8px;
+    background-image: linear-gradient(45deg, #5D69E9, #E5E5E5);
+    border-radius:8px; 
 }
 .third-section{
-    height: 600px;
+    height: 670px;
     background-color:rgba(236, 234, 234, 0.651);
 }
 .third-section h2{
@@ -47,22 +47,23 @@ body{
 .forth-section{    
     height: 200px;
     width: 100%;
+    margin-top:50px;
     background-image: url("images/Group_33094_1.png");
     background-size: 50%;
     background-repeat:no-repeat;
-    background-position:center;    
+    background-position:center;  
 }
 .work-inquiry h4{
     width: 25%;
     float: left;
     margin-left: 28%;
-    margin-top: 7%;
+    margin-top: 6%;
     font-size: 28px;
     color: white;
 }
 .work-inquiry button {
-    margin-top: 7.5%;
-    margin-left: 80px;   
+    margin-top: 6.5%;
+    margin-left: 110px;   
 }
 .last-part{
     margin-top:100px;
@@ -75,4 +76,52 @@ body{
 }
 .last-part img{
     width: 3%;
+}
+.unique-part{   
+    height: 500px;
+    margin: 60px 100px;
+    box-shadow: 15px 15px 60px lightgray;
+    border-radius: 10px;
+    background-image:linear-gradient(45deg, #FF8367 ,#FFF963)
+}
+.skills{
+    height:100px;        
+    margin-top: 50px;
+    margin-left: 55px;  
+    padding-top:20px;
+    text-align:center;  
+}
+.skills h3{
+    font-weight: 900;
+    font-size:25px;    
+}
+.skill-lvl{
+    margin-left:55px;    
+}
+.parent{
+    background-color: lightgreen;
+    width: 45%;
+    height: 20px;    
+}
+.child{
+    background-color: lightblue;
+    width:75%;
+    height: 20px;
+}
+#child-color-1{
+    width:85%;
+}
+#child-color-2{
+    width:78%;
+}
+#child-color-3{
+    width:50%;
+}
+#child-color-4{
+    width:68%;
+}
+.level-parcent{
+    margin-left:90%;
+    vertical-align:top;
+    font-weight:700;
 }

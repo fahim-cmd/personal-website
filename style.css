@@ -3,6 +3,7 @@ body{
     margin: 0%;
     padding: 0%;
 }
+/* ***************first section */
 .first-section{
     height: 500px;
 }
@@ -24,6 +25,7 @@ body{
     background-image: linear-gradient(45deg, #5D69E9, #E5E5E5);
     border-radius:8px; 
 }
+/* **************third section */
 .third-section{
     height: 670px;
     background-color:rgba(236, 234, 234, 0.651);
@@ -44,6 +46,7 @@ body{
     width: 100%;
     height: auto;    
 }
+/* *************forth section */
 .forth-section{    
     height: 200px;
     width: 100%;
@@ -77,6 +80,7 @@ body{
 .last-part img{
     width: 3%;
 }
+/* ******************my unique part */
 .unique-part{   
     height: 500px;
     margin: 60px 100px;
